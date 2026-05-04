@@ -10,5 +10,6 @@
 - [Lecture 8: Rigid Body Dynamics](https://csci-5980-spring-2026.github.io/Slides/Lecture-8/)
 - [Lecture 9: Audio](https://csci-5980-spring-2026.github.io/Slides/Lecture-9/)
 - [Lecture 10: Runtime Gameplay Foundation Systems](https://csci-5980-spring-2026.github.io/Slides/Lecture-10/)
+- [Lecture 11: What We Didn't Cover](https://csci-5980-spring-2026.github.io/Slides/Lecture-11/)
 
 Material for [CSCI 5980 Spring 2026](https://github.com/CSCI-5980-Spring-2026/Syllabus) by [Evan Suma Rosenberg](https://illusioneering.umn.edu/) is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
